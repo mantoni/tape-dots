@@ -1,0 +1,23 @@
+{
+  "name"            : "tape-dots",
+  "version"         : "1.0.0",
+  "description"     : "Dot reporter for tape",
+  "author"          : "Maximilian Antoni <http://maxantoni.de>",
+  "main"            : "index.js",
+  "bin"             : {
+    "tape-dots"     : "./bin/tape-dots"
+  },
+  "scripts"         : {
+    "test"          : "make test"
+  },
+  "devDependencies" : {
+    "autolint"      : "~1.0.4",
+    "sinon"         : "~1.7.1"
+  },
+  "files"           : ["lib", "README.md", "LICENSE"],
+  "repository"      : {
+    "type"          : "git",
+    "url"           : "https://github.com/mantoni/tape-dots.js.git"
+  },
+  "license"         : "MIT"
+}
