@@ -14,10 +14,10 @@
     "autolint"      : "~1.0.4",
     "sinon"         : "~1.7.1"
   },
-  "files"           : ["lib", "README.md", "LICENSE"],
+  "files"           : ["index.js", "bin", "README.md", "LICENSE"],
   "repository"      : {
     "type"          : "git",
-    "url"           : "https://github.com/mantoni/tape-dots.js.git"
+    "url"           : "https://github.com/mantoni/tape-dots.git"
   },
   "license"         : "MIT"
 }

@@ -1,8 +1,8 @@
 # tape-dots
 
-Dot reporter for tape
+Dot reporter for [tape][]
 
-Repository: <https://github.com/mantoni/tape-dots.js>
+Repository: <https://github.com/mantoni/tape-dots>
 
 ---
 
