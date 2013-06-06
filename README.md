@@ -52,9 +52,6 @@ $ consolify -o tests.html tape-dots ./test/*.js
 ```
 
 
-## Install with npm
-
-
 ## For browsers
 
 Either include `index.js` in your web page or use [Browserify][].
